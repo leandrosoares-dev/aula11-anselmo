@@ -1,0 +1,33 @@
+#principal{
+    width: 1200px;
+    height: 1000px;
+    border: 1px solid #000;
+    position: relative;
+    margin: auto;
+    border-radius: 20px;
+}
+#menu{
+    width: 98%;
+    height: 40px;
+    position: absolute;
+    background-color: #f00;
+    border-radius: 10px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+#corpo{
+    width: 98%;
+    height: 650px;
+    background-color: #ccc;
+    margin-left: 10px;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+#rodape{
+    width: 98%;
+    height: 290px;
+    background-color: #0f0;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
